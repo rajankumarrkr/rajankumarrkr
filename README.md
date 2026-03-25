@@ -1,5 +1,24 @@
 # 💫 About Me:
-Full Stack MERN Developer | React • Node.js • MongoDB | Building scalable web apps 🚀
+👋 Hi, I'm Rajan Kumar
+
+🚀 MERN Stack Developer focused on building scalable and performant web applications.
+
+💡 I specialize in:
+- Full-stack development (React, Node, MongoDB)
+- Secure authentication (JWT)
+- Real-time systems (Socket.io)
+- RESTful API design
+
+📌 Built projects like:
+👉 Grow India – Full-stack platform with real-time chat, post system & 500+ users
+
+⚡ I handle complete development lifecycle:
+From UI → Backend → Deployment (Vercel + Render)
+
+🧠 Currently learning:
+System Design, Performance Optimization, and Production-level scaling
+
+📫 Email: rajankumarrkr4576@gmail.com
 
 
 ## 🌐 Socials:
